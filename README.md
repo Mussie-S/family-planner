@@ -1,2 +1,2 @@
 # family-planner
-Private Family Planner for Semere Family
+Private Family Planner 
